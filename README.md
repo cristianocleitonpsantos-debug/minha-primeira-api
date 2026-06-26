@@ -19,5 +19,5 @@ Este projeto √© uma API simples desenvolvida com **Flask** para gerenciamento b√
 - GET /health
 - GET /alunos
 - GET /alunos/<*id*>
----
+
 
