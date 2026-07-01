@@ -6,7 +6,7 @@ app = Flask(__name__)
 alunos = [
     {"id": 1, "nome": "Ana", "curso": "Técnico em Informática"},
     {"id": 2, "nome": "Bruno", "curso": "Técnico em Desenvolvimento de Sistemas"},
-    {"id": 3, "nome": "Carla", "curso": "Técnico em Informática"},
+    {"id": 3, "nome": "Carla", "curso": "Técnico em IA"},
 ]
 
 tarefas = [
